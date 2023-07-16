@@ -58,7 +58,7 @@
 									<listOptionValue builtIn="false" value="STM32L072xx"/>
 									<listOptionValue builtIn="false" value="USE_B_L072Z_LRWAN1"/>
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
-									<listOptionValue builtIn="false" value="REGION_EU868"/>
+									<listOptionValue builtIn="false" value="REGION_AS923"/>
 								</option>
 								<option id="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other.714748513" superClass="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other" useByScannerDiscovery="false" value="-fmessage-length=0" valueType="string"/>
 								<option id="gnu.c.compiler.option.dialect.std.1601494605" name="Language standard" superClass="gnu.c.compiler.option.dialect.std" useByScannerDiscovery="true" value="gnu.c.compiler.dialect.default" valueType="enumerated"/>
@@ -152,7 +152,7 @@
 									<listOptionValue builtIn="false" value="STM32L072xx"/>
 									<listOptionValue builtIn="false" value="USE_B_L072Z_LRWAN1"/>
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
-									<listOptionValue builtIn="false" value=" REGION_EU868"/>
+									<listOptionValue builtIn="false" value=" REGION_AS923"/>
 								</option>
 								<option id="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other.714748513" superClass="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other" useByScannerDiscovery="false" value="-fmessage-length=0" valueType="string"/>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.1886051136" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c"/>
